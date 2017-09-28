@@ -152,6 +152,8 @@ plt.xlabel('S90')
 plt.ylabel('S10')
 plt.legend(loc='upper left')
 printInfo("S90 - S10 分类结果绘制完毕")
+
+plt. subplots_adjust( wspace = 0.20, hspace = 0.24 )
 plt.show()	
 
 	
