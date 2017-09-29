@@ -3,7 +3,7 @@
 
 ##区分嗜酸细胞的全局变量
 
-RAW_CSV_DIR = "CSV/rawDataCSV/2.csv" #原始csv文件目录
+RAW_CSV_DIR = "CSV/rawDataCSV/5.csv" #原始csv文件目录
 NEW_CSV_DIR = "CSV/resultCSV/distinguish_step1.csv" #第一步分类（白细胞团和嗜酸细胞的分离）后新生成csv文件路径
 
 CELL_GROUP_COUNT = 0;  #分离后白细胞团的数量
